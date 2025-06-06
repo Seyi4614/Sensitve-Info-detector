@@ -1,0 +1,14 @@
+John Doe was admitted to St. Mary's Hospital on 12th March 2023 with complaints of chest pain.
+
+Patient's date of birth: 05/08/1985  
+Diagnosis: Acute myocardial infarction  
+Treatment included administering nitroglycerin and aspirin.
+
+His medical record number is 4423312.  
+Email: john.doe@example.com  
+Phone: (555) 123-4567  
+Address: 123 Main Street, Springfield, IL  
+SSN: 123-45-6789  
+Credit Card: 4111-1111-1111-1111  
+Bank account number: 87654321  
+Routing number: 00112233
