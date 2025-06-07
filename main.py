@@ -10,7 +10,7 @@ PII_KEYWORDS = ["name", "address", "phone", "email", "social security", "ssn",
 PHI_KEYWORDS = ["medical", "health", "diagnosis", "treatment", "patient",
                 "prescription", "illness", "disease", "clinic", "hospital"]
 FIN_KEYWORDS = ["account number", "credit card", "bank", "financial", "invoice",
-                "routing number"]
+                "routing number", "bvn", "tax id", "financial statement", "payment"]
 
 CATEGORY_WEIGHTS = {"PII": 2, "PHI": 3, "Financial": 1}
 
